@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>time icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="player_v01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Player_Paused" transform="translate(-640.000000, -95.000000)" fill="#FFFFFF">
+            <g id="Video-Card" transform="translate(9.000000, 10.000000)">
+                <g id="content" transform="translate(77.000000, 37.000000)">
+                    <g id="time-icon" transform="translate(554.000000, 48.000000)">
+                        <path d="M9.99,0 C4.47,0 0,4.48 0,10 C0,15.52 4.47,20 9.99,20 C15.52,20 20,15.52 20,10 C20,4.48 15.52,0 9.99,0 L9.99,0 Z M10,18 C5.58,18 2,14.42 2,10 C2,5.58 5.58,2 10,2 C14.42,2 18,5.58 18,10 C18,14.42 14.42,18 10,18 L10,18 Z" id="Icon"></path>
+                        <polygon id="Icon" points="10.5 5 9 5 9 11 14.25 14.15 15 12.92 10.5 10.25"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
